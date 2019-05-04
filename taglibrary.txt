@@ -1,0 +1,8 @@
+<title> - Window or app title
+<controlbar> - Main bar at top of screen
+            <text> - Text on controlbar
+            <menu> - Hamburger menu
+                  <slidedirection> - Which direction the menu slides in from
+                  <itemlist> - List of items to add to menu
+            <button> - Any extra buttons that are added to the right of the bar
+<grid> - Holds the main controls for the window
